@@ -1,4 +1,4 @@
-# ДЗ 69.1 - API Версія
+# ДЗ 69 - Операції з базами даних і документами в Mongo Shell
 
 Цей проект реалізує завдання з Mongo Shell у вигляді RESTful API на базі Node.js, Express та Mongoose.
 
