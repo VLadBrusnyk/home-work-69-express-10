@@ -22,4 +22,5 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Сервер запущено на порту ${PORT}`);
+    console.log(`Відкрити: \x1b[34mhttp://localhost:${PORT}\x1b[0m`);
 });
